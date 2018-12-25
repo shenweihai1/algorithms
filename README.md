@@ -1,1 +1,1 @@
-# Notes taken in Wiki
+# upload the image
