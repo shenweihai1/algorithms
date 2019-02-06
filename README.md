@@ -1,2 +1,2 @@
 # imageUrlService
-the purpose of the internet image url
+the usage of the public image url
